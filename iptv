@@ -24,6 +24,9 @@ https://www.dropbox.com/scl/fi/sdsdon04ej2lst8ktmmk3/AMRI-TV-3.mp4?rlkey=dkm5phi
 #KODIPROP:inputstream.adaptive.license_key=http://mastertv.tech/vid/drmris.php?id=19035&type=dash
 https://newfamilytv.my.id/vid/vid.mpd?id=19035&type=mpd
 
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 12; cjf10x) ExoPlayerLib/2.15.1
+http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
+
 #EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
