@@ -10143,11 +10143,10 @@ https://red.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
 
 #EXTINF:0 tvg-logo="" group-title="🔴 CHANNEL | SPORTS" ,sin po tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=19046&type=drm 
-https://red.openwindows038.workers.dev/play.mpd?id=19046&type=dash
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://attitude.my.id/scripts/hls.php/stream.m3u8?id=19046
 
 #EXTINF:0 tvg-logo="" group-title="🔴 CHANNEL | SPORTS" ,sin po tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
