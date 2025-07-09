@@ -10140,3 +10140,25 @@ https://sweet-night-1d1d.worst.workers.dev/dash.php/stream.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=17938&type=drm 
 https://red.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+
+
+#EXTINF:0 tvg-logo="" group-title="🔴 CHANNEL | SPORTS" ,sin po tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=19046&type=drm 
+https://red.openwindows038.workers.dev/play.mpd?id=19046&type=dash
+
+#EXTINF:0 tvg-logo="" group-title="🔴 CHANNEL | SPORTS" ,sin po tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=19046&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=19046&type=dash
+
+#EXTINF:0 tvg-logo="" group-title="🔴 CHANNEL | SPORTS" ,sin po tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19046&type=drm
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19046&type=dash
