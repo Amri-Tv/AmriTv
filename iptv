@@ -405,15 +405,25 @@ https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.m
 ================= VOLI  =============
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png" group-title="🔴 LIVE EVENT ", SEA_V.League LIVE 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=19050&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=19050&type=dash
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png" group-title="🔴 LIVE EVENT ", SEA_V.League LIVE 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
+https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/6.ts
 
 #EXTINF:-1 tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="🔴 LIVE EVENT ", Volleyball Nations League LIVE 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18913&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=18913&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18954&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=18954&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="🔴 LIVE EVENT ", Volleyball Nations League LIVE 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -423,7 +433,7 @@ https://bitter-boa-67.deno.dev/play.mpd?id=18913&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://openwindows037.serv00.net/vinteo/prodeo.php?id=18851&type=drm
 https://openwindows037.serv00.net/vinteo/prodeo.mpd?id=18851&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="🔴 LIVE EVENT ", Volleyball Nations League 1
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="🔴 LIVE EVENT ", Volleyball Nations League LIVE 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -431,7 +441,7 @@ https://openwindows037.serv00.net/vinteo/prodeo.mpd?id=18851&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18851&type=drm
 https://bitter-boa-67.deno.dev/play.mpd?id=18851&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="🔴 LIVE EVENT ", Volleyball Nations League 2
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="🔴 LIVE EVENT ", Volleyball Nations League LIVE 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -439,7 +449,7 @@ https://bitter-boa-67.deno.dev/play.mpd?id=18851&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18853&type=drm
 https://bitter-boa-67.deno.dev/play.mpd?id=18853&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="🔴 LIVE EVENT ", Volleyball Nations League LIVE 4
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="🔴 LIVE EVENT ", Volleyball Nations League LIVE 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
