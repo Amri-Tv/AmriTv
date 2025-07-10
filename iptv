@@ -276,13 +276,6 @@ https://jorges4lu22-papi.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5k
 
 
 =========================================
-#EXTINF:-1 tvg-logo="https://gilabola.com/wp-content/uploads/2024/08/Klasemen-BRI-Liga-1-Indonesia.jpg" group-title="🔴 LIVE EVENT INDONESIA LIGA ", BRI Liga 1 05 Elit OFF
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://keepinthink.xyz/scripts/vidio/drm.php?id=205
-#https://keepinthink.xyz/scripts/vidio/dash.php/stream.mpd?id=205
 
 #EXTINF:-1 tvg-logo="https://gilabola.com/wp-content/uploads/2024/08/Klasemen-BRI-Liga-1-Indonesia.jpg" group-title="🔴 LIVE EVENT INDONESIA LIGA ", BRI Liga 1 05 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -324,14 +317,6 @@ https://jorges4lu22-papi.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5k
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #http://dusk.biz.id/prodeo/play.mpd?id=17625&type=dash
 
-
-#EXTINF:-1 tvg-logo="https://gilabola.com/wp-content/uploads/2024/08/Klasemen-BRI-Liga-1-Indonesia.jpg" group-title="🔴 LIVE EVENT INDONESIA LIGA ", BRI Liga 1 22 elit
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://keepinthink.xyz/scripts/vidio/drm.php?id=17622
-#https://keepinthink.xyz/scripts/vidio/dash.php/stream.mpd?id=17622
 
 ===========================================================TVKITA========================================================================
 
@@ -414,8 +399,11 @@ https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.m
 https://bitter-boa-67.deno.dev/play.mpd?id=19050&type=dash
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png" group-title="🔴 LIVE EVENT ", SEA_V.League LIVE 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
-https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/6.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #EXTINF:-1 tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="🔴 LIVE EVENT ", Volleyball Nations League LIVE 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -463,46 +451,10 @@ https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=e3651f6e5c27f94244cd2c47d1a17eb8&txTime=684521c1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/VoliTV2023.png/revision/latest?cb=20231115114023" group-title="🔴 LIVE EVENT ", MOJI 
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/VoliTV2023.png/revision/latest?cb=20231115114023" group-title="🔴 LIVE EVENT ",MOJI VOLY TV
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MOJI TV" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg" group-title="🔴 LIVE EVENT ", 🔴 VOLY INDONESIA 18234 stream
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://keepinthink.xyz/scripts/vidio/drm.php?id=18234
-#https://keepinthink.xyz/scripts/vidio/dash.php/stream.mpd?id=18234
-
-#EXTINF:-1 tvg-id="" tvg-name="MOJI TV" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg" group-title="🔴 LIVE EVENT ", 🔴 VOLY INDONESIA 18234 tvkita
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18234
-#https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18234
 ========================================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="MOJI TV" tvg-logo="https://thumbor.prod.vidiocdn.com/lQZb6oddfZRNcs-tQw6JggrKYgo=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18656/4th-win-streak-volleyball-invitation-tournament-cover-1b49fc.jpg" group-title="🔴 LIVE EVENT VOLY", 🔴 VOLY WSVI 18656 biz.id
 
-#EXTINF:-1 tvg-id="" tvg-name="MOJI TV" tvg-logo="https://thumbor.prod.vidiocdn.com/lQZb6oddfZRNcs-tQw6JggrKYgo=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18656/4th-win-streak-volleyball-invitation-tournament-cover-1b49fc.jpg" group-title="🔴 LIVE EVENT VOLY", 🔴 VOLY WSV! 18656 tvkita
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18656
-#https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18656
-
-#EXTINF:-1 tvg-id="" tvg-name="MOJI TV" tvg-logo="https://thumbor.prod.vidiocdn.com/lQZb6oddfZRNcs-tQw6JggrKYgo=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18656/4th-win-streak-volleyball-invitation-tournament-cover-1b49fc.jpg" group-title="🔴 LIVE EVENT VOLY", 🔴 VOLY WSV! 18656 elit
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://keepinthink.xyz/scripts/vidio/drm.php?id=18656
-#https://keepinthink.xyz/scripts/vidio/dash.php/stream.mpd?id=18656
 ========================================================================================================================================
-#EXTINF:-1 group-title="🔴 LIVE EVENT VOLY" tvg-id="indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/O747fVOOIYEk1DdhCpDEidFKysA=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/78736557/turkishvolleyball-99ccd0.jpg",VOLY TURKEY 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#https://keepinthink.xyz/scripts/vidio/hls.php/stream.m3u8?id=15417
+
 
 #EXTINF:-1 group-title="🔴 LIVE EVENT VOLY" tvg-id="indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/O747fVOOIYEk1DdhCpDEidFKysA=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/78736557/turkishvolleyball-99ccd0.jpg",VOLY TURKEY 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -1305,34 +1257,6 @@ https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/9.ts
 https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/10.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="🔴 TV DIGITAL",GTV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://keepinthink.xyz/scripts/Smarttv.php/.m3u8/.m3u8?id=Gtv
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="🔴 TV DIGITAL",MNC-TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://keepinthink.xyz/scripts/Smarttv.php/.m3u8?id=Mnctv
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="🔴 TV DIGITAL",RCTI FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://keepinthink.xyz/scripts/Smarttv.php/.m3u8?id=Rcti
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="🔴 TV DIGITAL",SCTV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://keepinthink.xyz/scripts/Smarttv.php/.m3u8?id=SCTV
-#EXTINF:-1 group-title="🔴 TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", INDOSIAR FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://keepinthink.xyz/scripts/Smarttv.php/.m3u8?id=Indosiar
-#EXTINF:-1 group-title="" tvg-logo="" tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="🔴 TV DIGITAL",TRANS 7 FHD
-https://keepinthink.xyz/scripts/Smarttv.php/.m3u8?id=Trans7_eko
-https://keepinthink.xyz/scripts/Smarttv.php?id=Trans7_eko
-#EXTINF:-1 group-title="" tvg-logo="" tvg-id="TransTV.id" tvg-name="trans tv" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="🔴 TV DIGITAL",TRANS TV FHD
-https://keepinthink.xyz/scripts/Smarttv.php/.m3u8?id=Transtv
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="🔴 TV DIGITAL",INews FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://keepinthink.xyz/scripts/Smarttv.php/.m3u8?id=Inewstv
-#EXTINF:-1 group-title="" tvg-logo="" tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg" group-title="🔴 TV DIGITAL",MOJI FHD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://home-tv.online/larasati8734w@/M@nw@e123/9170
-
-
 
 ===========================================VISION+=================================================================
 
@@ -2115,11 +2039,11 @@ https://why.biz.id/Iptv/oxygen.php/.m3u8?id=tvrisport
 
 #EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_dubaisport3.png" group-title="🔴 CHANNEL | OXYGEN",DUBAI SPORTS 3
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
-https://oxy.caranytv.workers.dev/index.m3u8?id=dubaisport3&key=true
+https://why.biz.id/Iptv/oxygen.php/.m3u8?id=dubaisport3&key=true
 
 #EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_redbull.png" group-title="🔴 CHANNEL | OXYGEN",RED BULL TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://keepinthink.xyz/scripts/oxygen.php?id=redbulltv
+https://why.biz.id/Iptv/oxygen.php/.m3u8?id=redbulltv
 
 ########################################################################TV LOKAL VIDIO ################################################################################################
 
@@ -2147,8 +2071,9 @@ https://attitude.my.id/scripts/hls.php/stream.m3u8?id=206
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://newfamilytv.my.id/vid/vid.mpd?id=734
-#https://mastertv.tech/vid/vid.m3u8?id=204
+https://bitter-boa-67.deno.dev/play.mpd?id=734&type=dash
+#https://newfamilytv.my.id/vid/vid.mpd?id=734
+https://mastertv.tech/vid/vid.m3u8?id=204
 
 #EXTINF:-1 group-title="" tvg-logo="https://thumbor.prod.vidiocdn.com/FXsb5WxSscnIxAqhuItR-a4KjN4=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-210a5f.jpg" tvg-logo="" group-title="🔴 CHANNEL | VIDIO",TRANS TV
 #EXTVLCOPT:http-referrer=https://m.vidio.com
@@ -2156,6 +2081,12 @@ https://newfamilytv.my.id/vid/vid.mpd?id=734
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://newfamilytv.my.id/vid/vid.mpd?id=733
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/jS2qOmwCgrwXlcVJNZ_2LEntgeU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sinpo-tv-ace1cd.jpg" group-title="🔴 CHANNEL | VIDIO" ,sin po tv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://attitude.my.id/scripts/hls.php/stream.m3u8?id=19046
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/2jA8iFl_Xmk6gnunwZb_FsVZ7G8=/1280x720/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-440680.jpg" group-title="🔴 CHANNEL | VIDIO",TVONE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -4567,10 +4498,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
-#EXTINF:-1 group-title="🔴 CHANNEL | KNOWLEDGE" tvg-id="nationalgeographicindonesia.id" tvg-logo="https://i.ibb.co.com/KXYvNky/20241227-131901.jpg",National Geographic 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-https://keepinthink.xyz/scripts/daddy/daddyhd2.php?id=premium745
 
 #EXTINF:-1 group-title="🔴 CHANNEL | KNOWLEDGE" tvg-id="nationalgeographicwildindonesia.id" tvg-logo="https://i.ibb.co.com/j5Rr63Y/20241227-132037.jpg",National Geographic Wild 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
@@ -10141,23 +10068,3 @@ https://sweet-night-1d1d.worst.workers.dev/dash.php/stream.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=17938&type=drm 
 https://red.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-
-#EXTINF:0 tvg-logo="" group-title="🔴 CHANNEL | SPORTS" ,sin po tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://attitude.my.id/scripts/hls.php/stream.m3u8?id=19046
-
-#EXTINF:0 tvg-logo="" group-title="🔴 CHANNEL | SPORTS" ,sin po tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=19046&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=19046&type=dash
-
-#EXTINF:0 tvg-logo="" group-title="🔴 CHANNEL | SPORTS" ,sin po tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19046&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19046&type=dash
